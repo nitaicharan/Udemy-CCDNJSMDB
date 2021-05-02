@@ -1,0 +1,1 @@
+console.log('Creating a news web site with NodeJS');
